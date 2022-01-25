@@ -1,0 +1,4 @@
+boolean - true /false
+number - 3000/ 30.5
+string - "Hello World"/ 'Hello World'
+
